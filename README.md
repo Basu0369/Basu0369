@@ -3,6 +3,13 @@
 
 <h3 align="center">I am a professional mobile developer with over 5 years of experience and a Bachelor of Science degree in Computer Science. I have three years of experience working with other marketplaces and with clients. Every day, I hone my skills through professional practice to develop more quickly and qualitatively.</h3>
 
+👨‍💻 Skills & Experiance:
+✅ WordPress
+✅ JavaScript
+✅ PHP
+✅ HTML5 / CSS3 / SASS / Bootstrap
+✅ Photoshop / Illustrator
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basu0369&label=Profile%20views&color=0e75b6&style=flat" alt="basu0369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basu0369" alt="basu0369" /></a> </p>
