@@ -5,11 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basu0369" alt="basu0369" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 I’m currently working on [Fiverr with android app](https://www.fiverr.com/apps_developer1)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on [Github](https://github.com/Basu0369)
+
+- 👨‍💻 All of my projects are available at [https://www.fiverr.com/apps_developer1](https://www.fiverr.com/apps_developer1)
+
+- 📝 I regularly write articles on [https://appknowlogy.com/](https://appknowlogy.com/)
+
+- 📫 How to reach me **basudab800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
