@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Basu dev</h1>
-<img src="[https://www.w3schools.com/images/w3schools_green.jpg](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)" alt="W3Schools.com">
-![App developer](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)
 
-<html>
-  <head>
-  </head>
-	<body>
-  <img src="[exampel.end](https://www.winklix.com/blog/wp-content/uploads/2017/08/Android-Mobile-Application-Development.png)">
-    </img>
-  </body>
-  
-  
-  </html>
 
 <h3 align="center">I am a professional mobile developer with over 5 years of experience and a Bachelor of Science degree in Computer Science. I have three years of experience working with other marketplaces and with clients. Every day, I hone my skills through professional practice to develop more quickly and qualitatively.</h3>
 
